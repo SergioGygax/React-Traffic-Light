@@ -10,3 +10,6 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.active-light {
+    box-shadow: 0px 0px 100px 4px #f6fffa;
+  }
